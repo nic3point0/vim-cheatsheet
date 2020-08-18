@@ -10,6 +10,8 @@
 :close        # close current pane
 ```
 
+### Normal Mode
+
 ## Cursor movement
 ```bash
 h        # move cursor left
@@ -71,6 +73,9 @@ xp       # transpose two letters (delete and paste)
 .        # repeat last command
 u        # undo
 Ctrl + r # redo
+>>       # Indent line
+<<       # de-indent line
+dd       # Delete line
 ```
 
 ## Marking text (visual mode)
